@@ -1,9 +1,9 @@
 {
-  "name": "github-user-search",
+  "name": "user-search-github",
   "version": "3.0.0",
   "main": "index.js",
-  "repository": "git@github.com:simonsmith/github-user-search.git",
-  "author": "Simon Smith <simonsmith@users.noreply.github.com>",
+  "repository": "git@github.com:KeshShan/user-search-github.git",
+  "author": "KeshShan <KeshShan@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
     "build": "cross-env NODE_ENV=production & webpack --config webpack/prod.config.js",
