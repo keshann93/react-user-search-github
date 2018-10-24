@@ -11,7 +11,7 @@ module.exports = merge(baseConfig, {
   output: {
     path: path.join(process.cwd(), 'build'),
     filename: '[name].bundle.[chunkhash].js',
-    publicPath: '/github-user-search/',
+    publicPath: '/react-user-search-github/',
   },
 
   module: {

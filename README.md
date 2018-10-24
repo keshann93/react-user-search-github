@@ -1,4 +1,4 @@
-Search and view users via the Github API - https://http://keshshan.github.io/user-search
+Search and view users via the Github API - https://keshshan.github.io/react-user-search-github/
 
 ## What is this?
 
@@ -25,4 +25,4 @@ view their profiles on Github.
 1. Clone the repository
 1. Install dependences `yarn`
 1. Run the server `yarnpkg run start`
-1. Visit `http://localhost:3001/github-user-search/`
+1. Visit `http://localhost:3001/react-user-search-github/`

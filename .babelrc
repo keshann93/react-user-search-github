@@ -15,6 +15,10 @@
     "transform-class-properties",
     ["module-resolver", {
       "root": ["./src/**", "./src/store/**"]
+    }],
+    ["transform-runtime", {
+      "polyfill": false,
+      "regenerator": true
     }]
    ]
 }

@@ -10,7 +10,7 @@ module.exports = merge(baseConfig, {
     inline: true,
     contentBase: 'src',
     port: '3001',
-    publicPath: '/github-user-search/',
+    publicPath: '/react-user-search-github/',
     historyApiFallback: true,
   },
 

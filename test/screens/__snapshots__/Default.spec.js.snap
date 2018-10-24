@@ -108,7 +108,7 @@ exports[`Screen: DefaultLayout when passed a component should render it in the d
         >
           View the 
           <a
-            href="https://github.com/simonsmith/github-user-search"
+            href="https://github.com/KeshShan/react-user-search-github"
           >
             source on GitHub
           </a>

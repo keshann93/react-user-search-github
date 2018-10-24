@@ -43,7 +43,7 @@ const renderRoute = curry((Component, matchProps) => {
       <Container rootStyle={styles.DefaultLayout_footer}>
         <div className="u-flex u-flexWrap u-flexAlignItemsCenter u-flexJustifyBetween">
           <p className={css(styles.DefaultLayout_footerText)}>
-            View the <a href="https://github.com/simonsmith/github-user-search">source on GitHub</a>
+            View the <a href="https://github.com/KeshShan/react-user-search-github">source on GitHub</a>
           </p>
           <RateLimitContainer />
         </div>
