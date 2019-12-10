@@ -34,7 +34,7 @@
     "classnames": "^2.2.5",
     "cross-env": "^5.2.0",
     "date-fns": "^1.28.2",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.13",
     "normalizr": "^3.1.0",
     "parse-link-header": "^1.0.1",
     "query-string": "^5.0.0",
