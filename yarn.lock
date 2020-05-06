@@ -4497,11 +4497,9 @@ js-base64@^2.1.9:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-4.0.0.tgz#19203fb59991df98e3a287050d4647cdeaf32499"
 
-
 js-tokens@^3.0.2:
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-3.0.2.tgz#9866df395102130e38f7f996bceb65443209c25b"
-
 
 js-yaml@^3.13.1, js-yaml@~3.13.1:
   version "3.13.1"
@@ -6222,9 +6220,9 @@ react-dom@^16.0.0:
     prop-types "^15.6.2"
     schedule "^0.5.0"
 
-react-is@^16.5.2:
-  version "16.5.2"
-  resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.5.2.tgz#e2a7b7c3f5d48062eb769fcb123505eb928722e3"
+react-is@^16.5.2, react-is@^16.8.6:
+  version "16.13.1"
+  resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
 
 react-redux@^5.0.2:
   version "5.0.7"
@@ -6282,14 +6280,14 @@ react-svg-loader@^1.1.1:
     svgo "~0.6.3"
     yargs "~4.8.0"
 
-react-test-renderer@^16.0.0, react-test-renderer@^16.0.0-0:
-  version "16.5.2"
-  resolved "https://registry.yarnpkg.com/react-test-renderer/-/react-test-renderer-16.5.2.tgz#92e9d2c6f763b9821b2e0b22f994ee675068b5ae"
+react-test-renderer@^16.0.0-0, react-test-renderer@^16.13.1:
+  version "16.13.1"
+  resolved "https://registry.yarnpkg.com/react-test-renderer/-/react-test-renderer-16.13.1.tgz#de25ea358d9012606de51e012d9742e7f0deabc1"
   dependencies:
     object-assign "^4.1.1"
     prop-types "^15.6.2"
-    react-is "^16.5.2"
-    schedule "^0.5.0"
+    react-is "^16.8.6"
+    scheduler "^0.19.1"
 
 react@^16.0.0:
   version "16.5.2"
@@ -6689,6 +6687,13 @@ schedule@^0.5.0:
   version "0.5.0"
   resolved "https://registry.yarnpkg.com/schedule/-/schedule-0.5.0.tgz#c128fffa0b402488b08b55ae74bb9df55cc29cc8"
   dependencies:
+    object-assign "^4.1.1"
+
+scheduler@^0.19.1:
+  version "0.19.1"
+  resolved "https://registry.yarnpkg.com/scheduler/-/scheduler-0.19.1.tgz#4f3e2ed2c1a7d65681f4c854fa8c5a1ccb40f196"
+  dependencies:
+    loose-envify "^1.1.0"
     object-assign "^4.1.1"
 
 schema-utils@^0.3.0:
