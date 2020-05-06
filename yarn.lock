@@ -4497,11 +4497,9 @@ js-base64@^2.1.9:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-4.0.0.tgz#19203fb59991df98e3a287050d4647cdeaf32499"
 
-
 js-tokens@^3.0.2:
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-3.0.2.tgz#9866df395102130e38f7f996bceb65443209c25b"
-
 
 js-yaml@^3.13.1, js-yaml@~3.13.1:
   version "3.13.1"
@@ -5228,9 +5226,9 @@ normalize-url@^1.0.0, normalize-url@^1.4.0:
     query-string "^4.1.0"
     sort-keys "^1.0.0"
 
-normalize.css@^7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/normalize.css/-/normalize.css-7.0.0.tgz#abfb1dd82470674e0322b53ceb1aaf412938e4bf"
+normalize.css@^8.0.0:
+  version "8.0.1"
+  resolved "https://registry.yarnpkg.com/normalize.css/-/normalize.css-8.0.1.tgz#9b98a208738b9cc2634caacbc42d131c97487bf3"
 
 normalizr@^3.1.0:
   version "3.3.0"
@@ -7145,11 +7143,11 @@ style-loader@^0.18.2:
     loader-utils "^1.0.2"
     schema-utils "^0.3.0"
 
-suitcss-base@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/suitcss-base/-/suitcss-base-4.0.0.tgz#f3374526410c90e28a3fd8435947f1caa6146eb6"
+suitcss-base@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/suitcss-base/-/suitcss-base-5.0.0.tgz#e81e66281c0616537aad9c925a61ed4058c2fa6b"
   dependencies:
-    normalize.css "^7.0.0"
+    normalize.css "^8.0.0"
 
 suitcss-components-grid@^3.0.3:
   version "3.0.3"
